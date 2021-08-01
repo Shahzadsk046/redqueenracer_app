@@ -2,7 +2,6 @@ import useWebAnimations from "@wellyshen/use-web-animations";
 import React, { useEffect } from "react";
 
 const RedQueenRace = () => {
-  var playbackRateRQ = 1;
   var playbackRateBG = 0;
   /* Background animations */
   const sceneryFrames = [
